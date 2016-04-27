@@ -1,2 +1,6 @@
+
+[Wed 27APR2016]. How To Install Git on Ubuntu 14.04. ;
+  https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04#how-to-set-up-git
+
 [Wed 27APR2016]. How To Use Git Effectively. ;
   https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
