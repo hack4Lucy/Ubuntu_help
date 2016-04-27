@@ -4,3 +4,6 @@
 
 [Wed 27APR2016]. How To Use Git Effectively. ;
   https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
+ 
+[Wed 27APR2016]. How to Install AMPPS on Ubuntu? ; 
+  http://shamimmia.com/2015/09/10/how-to-install-ampps-on-ubuntu/
