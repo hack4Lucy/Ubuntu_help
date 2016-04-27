@@ -1,0 +1,2 @@
+[Wed 27APR2016]. How To Use Git Effectively. ;
+  https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
