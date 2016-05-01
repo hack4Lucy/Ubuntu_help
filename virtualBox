@@ -1,0 +1,2 @@
+[Sat 30APR2016]. How do you resize the standard Ubuntu Desktop inside of Virtualbox?. ;
+                 > sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
